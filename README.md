@@ -20,7 +20,7 @@
 - 読唇マルチモーダルデータベース [https://zunko.jp/multimodal_dev/login.php]
 - 松風様のITAコーパス朗読データ [https://drive.google.com/drive/folders/1hIPDU2blUdWr_YyweaohsbYVT8Z62Qgy]
 - Vtuberコフィン　ITAコーパス収録素材集 [https://booth.pm/ja/items/3382115]
-- あみたろの声素材工房 [http://www14.big.or.jp/~amiami/happy/corpus.html]
+- あみたろの声素材工房 [http://amitaro.net/]
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
@@ -36,4 +36,4 @@
 - 2021/06/17: 最初のアップロード
 - 2021/08/11: 音声DBの情報を更新
 - 2021/11/05: 音声DBの情報を更新
-- 2021/11/06: 音声DBの情報を更新
+- 2021/11/06: 音声DBの情報を更新（再修正）
