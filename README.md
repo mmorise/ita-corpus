@@ -21,6 +21,7 @@
 - 松風様のITAコーパス朗読データ [https://drive.google.com/drive/folders/1hIPDU2blUdWr_YyweaohsbYVT8Z62Qgy]
 - Vtuberコフィン　ITAコーパス収録素材集 [https://booth.pm/ja/items/3382115]
 - あみたろの声素材工房 [http://amitaro.net/]
+- 刻鳴時雨ITAコーパス読み上げ音声素材 [https://booth.pm/ja/items/3640133]
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
