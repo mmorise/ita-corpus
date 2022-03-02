@@ -22,6 +22,7 @@
 - Vtuberコフィン　ITAコーパス収録素材集 [https://booth.pm/ja/items/3382115]
 - あみたろの声素材工房 [http://amitaro.net/]
 - 刻鳴時雨ITAコーパス読み上げ音声素材 [https://booth.pm/ja/items/3640133]
+- 話速変換コーパス：SpeedSpeech-JA-2022 [https://ast-astrec.nict.go.jp/release/speedspeech_ja_2022/download.html]
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
@@ -35,6 +36,3 @@
 
 ## 修正履歴
 - 2021/06/17: 最初のアップロード
-- 2021/08/11: 音声DBの情報を更新
-- 2021/11/05: 音声DBの情報を更新
-- 2021/11/06: 音声DBの情報を更新（再修正）
