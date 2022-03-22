@@ -21,6 +21,7 @@
 - 松風様のITAコーパス朗読データ [https://drive.google.com/drive/folders/1hIPDU2blUdWr_YyweaohsbYVT8Z62Qgy]
 - Vtuberコフィン　ITAコーパス収録素材集 [https://booth.pm/ja/items/3382115]
 - あみたろの声素材工房 [http://amitaro.net/]
+  - アクセント情報 [https://github.com/y-chan/amitaro-ita-corpus]
 - 刻鳴時雨ITAコーパス読み上げ音声素材 [https://booth.pm/ja/items/3640133]
 - 話速変換コーパス：SpeedSpeech-JA-2022 [https://ast-astrec.nict.go.jp/release/speedspeech_ja_2022/download.html]
 
