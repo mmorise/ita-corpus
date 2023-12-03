@@ -24,6 +24,8 @@
   - アクセント情報 [https://github.com/y-chan/amitaro-ita-corpus]
 - 刻鳴時雨ITAコーパス読み上げ音声素材 [https://booth.pm/ja/items/3640133]
 - 話速変換コーパス：SpeedSpeech-JA-2022 [https://ast-astrec.nict.go.jp/release/speedspeech_ja_2022/download.html]
+- 奈落ゆいITA [https://narakuyui.fanbox.cc/posts/7082575]
+
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
