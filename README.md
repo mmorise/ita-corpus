@@ -26,6 +26,7 @@
 - 話速変換コーパス：SpeedSpeech-JA-2022 [https://ast-astrec.nict.go.jp/release/speedspeech_ja_2022/download.html]
 - 奈落ゆいITA [https://narakuyui.fanbox.cc/posts/7082575]
 - FM44 CORPUS [https://gitlab.com/f-matano44/fm44-corpus]
+- JMS：NICT日本語複数話者複数スタイル音声合成コーパス [https://ast-astrec.nict.go.jp/release/jms/]
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
