@@ -27,6 +27,7 @@
 - 奈落ゆいITA [https://narakuyui.fanbox.cc/posts/7082575]
 - FM44 CORPUS [https://gitlab.com/f-matano44/fm44-corpus]
 - JMS：NICT日本語複数話者複数スタイル音声合成コーパス [https://ast-astrec.nict.go.jp/release/jms/]
+- 小林理学研究所／リオン株式会社によるITAコーパス（Emotion）読み上げ音声コーパス [https://github.com/Rion-Dev/ita-corpus-Rion]
 
 ## ライセンス情報
 パブリックドメインです．これは義務ではありませんが，データベース等を構築した場合，お知らせ頂ければ上記の例に記載させて頂きます．
